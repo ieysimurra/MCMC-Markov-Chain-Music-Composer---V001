@@ -7,7 +7,7 @@
 
 > **An intelligent music composition system using Markov Chains to generate original musical pieces based on MIDI training data**
 
-[🇧🇷 Versão em Português](README_pt-BR.md)
+[🇧🇷 Versão em Português](README.md)
 
 ![Demo](assets/demo/demo_video.gif)
 
