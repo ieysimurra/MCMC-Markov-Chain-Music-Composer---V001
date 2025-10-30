@@ -73,7 +73,7 @@ O **Gerador de Música com Cadeias de Markov** é um sistema de composição alg
 ## 🚀 Demo
 
 ### Versão Web (Streamlit)
-**Experimente agora**: [https://markov-music-generator.streamlit.app](https://your-app-url.streamlit.app)
+**Experimente agora**: [https://markov-music-generator.streamlit.app](https://mcmc-markov-chain-music-composer.streamlit.app/)
 
 ### Capturas de Tela
 
