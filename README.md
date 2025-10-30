@@ -7,7 +7,7 @@
 
 > **Um sistema inteligente de composição musical que utiliza Cadeias de Markov para gerar peças musicais originais baseadas em dados de treinamento MIDI**
 
-[🇺🇸 English Version](README.md)
+[🇺🇸 English Version](README_EN.md)
 
 ![Demo](assets/demo/demo_video.gif)
 
