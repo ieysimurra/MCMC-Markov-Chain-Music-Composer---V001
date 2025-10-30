@@ -401,8 +401,7 @@ Se você usar este software em sua pesquisa, por favor cite:
 ## 📧 Contato
 
 - **Issues no GitHub**: [Reportar bugs ou solicitar recursos](https://github.com/yourusername/markov-music-generator/issues)
-- **Email**: seu.email@example.com
-- **Twitter**: [@seuusuario](https://twitter.com/seuusuario)
+- **Email**: ieysimurra@gmail.com
 
 ---
 
