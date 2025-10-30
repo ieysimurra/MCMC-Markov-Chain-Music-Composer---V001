@@ -401,8 +401,7 @@ If you use this software in your research, please cite:
 ## 📧 Contact
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/markov-music-generator/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: ieysimurra@gmail.com
 
 ---
 
