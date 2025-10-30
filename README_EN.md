@@ -73,7 +73,7 @@ The **Markov Chain Music Generator** is a Python-based algorithmic composition s
 ## 🚀 Demo
 
 ### Web Version (Streamlit)
-**Try it live**: [https://markov-music-generator.streamlit.app](https://your-app-url.streamlit.app)
+**Try it live**: [https://markov-music-generator.streamlit.app](https://mcmc-markov-chain-music-composer.streamlit.app/)
 
 ### Screenshots
 
